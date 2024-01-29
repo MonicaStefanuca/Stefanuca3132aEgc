@@ -1,0 +1,51 @@
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\Template.exe.config
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\Template.exe
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\Template.pdb
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\OpenTK.dll
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\OpenTK.GLControl.dll
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\OpenTK.pdb
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\OpenTK.xml
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\OpenTK.GLControl.pdb
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\bin\Debug\OpenTK.GLControl.xml
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.csprojAssemblyReference.cache
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.MainForm.resources
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.Properties.Resources.resources
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.csproj.GenerateResource.cache
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.csproj.CoreCompileInputs.cache
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.csproj.CopyComplete
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.exe
+D:\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate\ReTester\obj\Debug\Template.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\Template.exe.config
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\Template.exe
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\Template.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.dll
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.GLControl.dll
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.xml
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.GLControl.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.GLControl.xml
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csprojAssemblyReference.cache
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.MainForm.resources
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.Properties.Resources.resources
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.GenerateResource.cache
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.CoreCompileInputs.cache
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.CopyComplete
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.exe
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Test2\IstratoaieIoanaTeodora\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.pdb
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\Template.exe.config
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\Template.exe
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\Template.pdb
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.dll
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.pdb
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.xml
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.MainForm.resources
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.Properties.Resources.resources
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.GenerateResource.cache
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.csproj.CopyComplete
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.exe
+C:\Users\Nicu\Downloads\OpenTK_WinForms_StandardTemplate1-20240129T143147Z-001\OpenTK_WinForms_StandardTemplate1\ReTester\obj\Debug\Template.pdb

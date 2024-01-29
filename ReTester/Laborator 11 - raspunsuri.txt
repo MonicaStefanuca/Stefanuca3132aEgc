@@ -1,0 +1,31 @@
+Laborator 11 - raspunsuri
+
+1. GL.Push(): Salvează starea curentă a OpenGL.
+GL.Pop(): Restaurează starea precedentă a OpenGL.
+Sunt folosite pentru a salva și restaura starea OpenGL, inclusiv transformările și proprietățile de desenare. Ajută la gestionarea stării OpenGL fără a o afecta permanent.
+
+2.  GL.Rotate(), GL.Translate() și GL.Scale() asupra unui cub în OpenGL:
+
+GL.Rotate() - Rotirea coordonatelor de desen în jurul unui ax specificat.
+EX: 
+GL.PushMatrix(); // Salvăm starea curentă
+GL.Rotate(45, 0, 1, 0); // Rotire cu un unghi de 45 de grade în jurul axei Y
+DrawCube(); // Desenăm cubul
+GL.PopMatrix(); // Restaurăm starea anterioară
+
+GL.Translate() - Translația coordonatelor de desen în spațiu.
+EX:
+GL.PushMatrix(); // Salvăm starea curentă
+GL.Translate(2, 0, 0); // Translatare cu 2 unități pe axa X
+DrawCube(); // Desenăm cubul
+GL.PopMatrix(); // Restaurăm starea anterioară
+
+GL.Scale() - Scalarea coordonatelor de desen.
+EX:
+GL.PushMatrix(); // Salvăm starea curentă
+GL.Scale(2, 1, 1); // Scalare dublă pe axa X (valoarea 1 inseamna fara scalare)
+DrawCube(); // Desenăm cubul
+GL.PopMatrix(); // Restaurăm starea anterioară
+                   
+
+3. Numărul de nivele de manipulări ierarhice depinde de mărimea stivei de matrice. De obicei, stiva are o dimensiune de 32 de elemente. Prin urmare, putem avea până la 32 de niveluri de manipulări ierarhice folosind GL.Push() și GL.Pop().
